@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Restaurants</string>
+    <string name="my_restaurants">My Restaurants</string>
+    <string name="find_restaurants">Find Restaurants</string>
+    <string name="todo">TODO</string>
+    <string name="enter_zip_code">Enter Zip Code</string>
+    <string name="restaurants_near">Restaurants near</string>
+</resources>
